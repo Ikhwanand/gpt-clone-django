@@ -1,0 +1,8 @@
+.vscode/
+db.sqlite3
+.env
+
+core/__pycache__/
+chatbot/__pycache__/
+chatbot/migrations/
+venv/
